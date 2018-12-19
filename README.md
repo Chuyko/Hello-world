@@ -11,6 +11,7 @@ Technologies:
 - Spring Boot: 2.0.X (https://spring.io/guides/gs/spring-boot/). Generate Initial project: https://start.spring.io/
 - Spring Data JPA (https://spring.io/guides/gs/accessing-data-jpa/)
 - DB: mariadb (https://mariadb.org/download/)
+- Unit testing: JUnit 5 and Mockito 2.
 
 # Put here documentation for the application  
 
